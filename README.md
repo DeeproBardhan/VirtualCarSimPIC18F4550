@@ -8,3 +8,5 @@ The project is basically an open source racing controller project using PIC18F45
 4} led's 
 5} 2*22pf capacitors
 6} 3* 0.1uf capacitors
+
+Use MICROC PRO Ide for editing changes
